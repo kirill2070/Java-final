@@ -82,7 +82,7 @@ public class Database {
                         "      FROM (SELECT * " +
                         "            FROM Country C " +
                         "                     JOIN People P ON C.country = P.country " +
-                        "            WHERE region IN ('Western Europe', 'Sub-Saharan Africa')) " +
+                        "            WHERE region IN ('Southeastern Asia', 'Sub-Saharan Africa')) " +
                         "      GROUP BY country);"
         ).getString("country");
     }
