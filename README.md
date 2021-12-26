@@ -37,7 +37,7 @@
 ## 3.Найдите страну с "самыми средними показателями" среди "Southeastern Asia" и "Sub-Saharan Africa" <br>
 Формат sql-запроса:
 
-![sql3](https://github.com/kirill2070/Java-final/blob/master/png/sql3.png)
+![sql3](https://github.com/kirill2070/Java-final/blob/master/png/sql33.png)
 
 Ответ:
 
